@@ -12,7 +12,7 @@
 - Styling components using StyleSheet
 
 ## Demo Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u3Kcrmo09wY" frameborder="0" allowfullscreen></iframe>
+[Watch Demo Video](https://www.youtube.com/watch?v=u3Kcrmo09wY)
 
 
 
